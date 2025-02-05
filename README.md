@@ -6,19 +6,7 @@ HTML para estruturação da página;
 CSS para estilização;
 JavaScript para implementar a lógica do jogo e o funcionamento dinâmico;
 
-Como Rodar o Projeto
-
-Clone o Repositório:
-
-git clone https://github.com/MatheusFigueiredo1001/JavaScript-Projeto-Jokenpo.git
-
-Acesse a Pasta do Projeto:
-
-cd jokenpo
-
-Abra o Arquivo HTML no Navegador:
-
-Não é necessário instalar dependências, pois é um projeto estático.
+O projeto estará disponível em https://matheusfigueiredo1001.github.io/Jo-Ken-Po/.
 
 Funcionamento:
 O jogador escolhe sua opção clicando no botão correspondente (“Pedra”, “Papel” ou “Tesoura”). O computador gera aleatoriamente uma opção usando a lógica do Math.random. O jogo compara as escolhas e exibe o resultado na tela.
