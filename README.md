@@ -6,7 +6,7 @@ HTML para estruturação da página;
 CSS para estilização;
 JavaScript para implementar a lógica do jogo e o funcionamento dinâmico;
 
-O projeto estará disponível em https://matheusfigueiredo1001.github.io/Jo-Ken-Po/.
+O projeto estará disponível em https://matheusfigueiredo1001.github.io/Jo-Ken-Po/
 
 Funcionamento:
 O jogador escolhe sua opção clicando no botão correspondente (“Pedra”, “Papel” ou “Tesoura”). O computador gera aleatoriamente uma opção usando a lógica do Math.random. O jogo compara as escolhas e exibe o resultado na tela.
