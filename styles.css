@@ -1,67 +1,67 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 
 body {
-    background: #000000;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+	background: linear-gradient(135deg, #ffb347, #ff6b6b);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
 }
 
 .container {
-    padding: 20px;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+	padding: 20px;
+	background-color: #ffffff;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
 
 button {
-    padding: 10px;
-    font-size: 50px;
-    cursor: pointer;
-    border: none;
-    border-radius: 10px;
+	padding: 10px;
+	font-size: 50px;
+	cursor: pointer;
+	border: none;
+	border-radius: 10px;
 }
 
 button:hover {
-    opacity: 0.7;
+	opacity: 0.7;
 }
 
 .buttons {
-    margin: 30px 0px;
-    display: flex;
-    gap: 40px;
+	margin: 30px 0px;
+	display: flex;
+	gap: 40px;
 }
 
 #rock {
-    background-color: #e61818;
+	background-color: #e61818;
 }
 
 #paper {
-    background-color: #15d82f;
+	background-color: #15d82f;
 }
 
 #scissors {
-    background-color: #121f9c;
+	background-color: #121f9c;
 }
 
 p {
-    font-weight: bold;
-    margin-bottom: 10px;
+	font-weight: bold;
+	margin-bottom: 10px;
 }
 
 .your-score span {
-    color: rgb(236, 41, 41);
+	color: rgb(236, 41, 41);
 }
 
 .machine-score span {
-    color: rgb(13, 13, 184);
+	color: rgb(13, 13, 184);
 }
