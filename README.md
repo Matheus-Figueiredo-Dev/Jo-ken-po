@@ -1,1 +1,22 @@
-Projeto que fiz como aprendizado de um jogo Jo-ken-po ou pedra, papel e tesoura, neste projeto o maior desafio foi conseguir fazer a lógica funcionar, mas consegui com esforço e dedicação, além da lógica o principal meio para o programa foi o Math onde usando de estatística faz o jogador ou a máquina selecionar um número aleatório onde cada número recebe um valor para pedra, papel ou tesoura, com isso aplica a lógica para ver quem ganha a disputa.
+Descrição:
+Este é um projeto de Jokenpô desenvolvido para praticar conceitos de lógica de programação e matemática em JavaScript, utilizando o método Math. O jogo conta com uma interface gráfica simples onde o jogador pode escolher entre as opções de "Pedra", "Papel" ou "Tesoura". Assim que a escolha é feita, o jogo exibe imediatamente o resultado (vitória, derrota ou empate).
+
+Tecnologias Utilizadas:
+HTML para estruturação da página;
+CSS para estilização;
+JavaScript para implementar a lógica do jogo e o funcionamento dinâmico;
+
+O projeto estará disponível em https://matheusfigueiredo1001.github.io/Jo-Ken-Po/
+
+Funcionamento:
+O jogador escolhe sua opção clicando no botão correspondente (“Pedra”, “Papel” ou “Tesoura”). O computador gera aleatoriamente uma opção usando a lógica do Math.random. O jogo compara as escolhas e exibe o resultado na tela.
+
+Diferenciais:
+Interface gráfica simples e funcional;
+Lógica baseada em matemática e probabilidade com Math.random;
+Projeto focado em aprendizado e aprimoramento de habilidades de programação;
+
+Melhorias Futuras:
+Adição de animações para tornar o jogo mais atrativo;
+Implementação de um placar para acompanhar vitórias, derrotas e empates;
+Adição de músicas ou efeitos sonoros para melhorar a experiência do usuário;
