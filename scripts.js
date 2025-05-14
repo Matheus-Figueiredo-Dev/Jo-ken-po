@@ -26,14 +26,11 @@ const playHuman = (humanChoice) => {
 const playMachine = () => {
     const choices = [GAME_OPTIONS.ROCK, GAME_OPTIONS.PAPER, GAME_OPTIONS.SCISSORS]
     const randomNumber = Math.floor(Math.random() * 3)
-    console.log(randomNumber)
 
     return choices[randomNumber]
 }
 
 const playTheGame = (human, machine) => {
-    console.log("Humano: " + human, "Máquina: " + machine)
-
     if (human === machine) {
         result.innerHTML = "Empate!"
     }
