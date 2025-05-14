@@ -1,22 +1,30 @@
-Descrição:
-Este é um projeto de Jokenpô desenvolvido para praticar conceitos de lógica de programação e matemática em JavaScript, utilizando o método Math. O jogo conta com uma interface gráfica simples onde o jogador pode escolher entre as opções de "Pedra", "Papel" ou "Tesoura". Assim que a escolha é feita, o jogo exibe imediatamente o resultado (vitória, derrota ou empate).
+✊✋🖖 Projeto Jokenpô
+Este é um projeto de Jogo de Jokenpô (Pedra, Papel e Tesoura), desenvolvido para treinar o uso de operadores matemáticos com Math e funções estatísticas como Math.random(), além de interagir com o usuário via prompt e mostrar o resultado.
 
-Tecnologias Utilizadas:
-HTML para estruturação da página;
-CSS para estilização;
-JavaScript para implementar a lógica do jogo e o funcionamento dinâmico;
+📌 Objetivo
+O jogo permite que o usuário escolha uma das opções (Pedra, Papel ou Tesoura) e jogue contra o computador. O computador faz sua escolha aleatória usando o Math.random(), e o vencedor é determinado pelas regras tradicionais do Jokenpô.
 
-O projeto estará disponível em https://matheusfigueiredo1001.github.io/Jo-Ken-Po/
+🛠️ Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
 
-Funcionamento:
-O jogador escolhe sua opção clicando no botão correspondente (“Pedra”, “Papel” ou “Tesoura”). O computador gera aleatoriamente uma opção usando a lógica do Math.random. O jogo compara as escolhas e exibe o resultado na tela.
+💡 Funcionalidades
+- O jogador escolhe entre Pedra, Papel ou Tesoura.
+- O computador faz uma escolha aleatória utilizando Math.random().
+- O resultado da partida é exibido ao usuário: quem ganhou ou se foi empate.
+- O uso de operadores lógicos determina o vencedor baseado nas regras do Jokenpô.
 
-Diferenciais:
-Interface gráfica simples e funcional;
-Lógica baseada em matemática e probabilidade com Math.random;
-Projeto focado em aprendizado e aprimoramento de habilidades de programação;
+📸 Preview
+![image](https://github.com/user-attachments/assets/16388b04-6af7-4312-ba87-fee365ec798d)
 
-Melhorias Futuras:
-Adição de animações para tornar o jogo mais atrativo;
-Implementação de um placar para acompanhar vitórias, derrotas e empates;
-Adição de músicas ou efeitos sonoros para melhorar a experiência do usuário;
+🔗 Veja o projeto online https://matheus-figueiredo-dev.github.io/Jo-ken-po/
+
+🧠 Aprendizados
+- Utilização de Math.random() para gerar escolhas aleatórias.
+- Aplicação de operadores lógicos para comparar as escolhas do jogador e do computador.
+- Como manipular o DOM para exibir resultados de forma interativa.
+
+📍 Status
+❗Projeção futura, adicionar mais animações para melhor visualização do usuário
+
